@@ -1,0 +1,30 @@
+.intro{
+    font-style: italic;
+    font-size: 100px;
+    padding: 10px;
+    border:5px solid blue ;
+   border-style:dashed;
+   width: 700px;
+   height: 120px;
+   text-align: center;
+}
+.intro2{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.instructions{
+          font-size: 20px;
+          font-weight: bold;
+}
+.ins2{
+    font-weight: bold;
+    font-family:cursive ;
+}
+.Download{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.download2{
+      font-weight: unset;
+}
